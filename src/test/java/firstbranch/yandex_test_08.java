@@ -9,5 +9,6 @@ public class yandex_test_08 {
     @Test
     void yandexTest(){
         open("https:yandex.ru/");
+
     }
 }
